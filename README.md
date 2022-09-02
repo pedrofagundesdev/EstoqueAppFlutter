@@ -1,4 +1,4 @@
-# estoque
+# Estoque
 
 A new Flutter project.
 
